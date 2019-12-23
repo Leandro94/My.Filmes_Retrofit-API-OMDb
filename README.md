@@ -1,4 +1,4 @@
-# My.Filmes_Retrofit-API-OMDb
+# App My.Filmes - Consumindo OMDb API com Retrofit
  App para consumir API OMDb. Funções de favoritos, detalhes e pesquisa.
  
  ![cc0ee99f-2a59-43a5-acc0-8e610bd9444a](https://user-images.githubusercontent.com/7034344/71381821-fe0f2300-25b3-11ea-951a-ece65cf573bb.jpg)
